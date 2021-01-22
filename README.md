@@ -100,7 +100,7 @@ portSpider/mysql $> run
 
 
 # developers:
-  * ([@xdavidhu](https://github.com/GyroGyro))
+  * ([@GyroGyro](https://github.com/GyroGyro))
 
 # contribution:
   <h4>If you have any ideas about new modules and improvements in portSpider, feel free to contribute.</h4>
